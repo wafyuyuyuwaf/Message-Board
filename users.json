@@ -10,7 +10,9 @@
     "name": "王奥飞",
     "email": "3586338672@qq.com",
     "password": "1234566678",
-    "score": 60,
-    "created_at": "2026-09-27T13:41:37.681Z"
+    "score": 100,
+    "created_at": "2026-09-27T13:41:37.681Z",
+    "lastScoreReason": "校史闯关",
+    "lastScoreAt": "2026-09-27T13:42:58.276Z"
   }
 ]
