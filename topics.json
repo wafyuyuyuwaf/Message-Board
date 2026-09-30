@@ -1,5 +1,19 @@
 [
   {
+    "id": "topic_1790769078079_kgdr2",
+    "category": "求职经验",
+    "authorName": "何学长",
+    "authorEmail": "seed13@sict90.cn",
+    "authorYear": "2019",
+    "authorDept": "信息技术系",
+    "isAnonymous": false,
+    "title": "从商职到字节跳动：我的电商运营进阶之路",
+    "content": "19年毕业先在本地电商公司做客服，两年跳槽到杭州做运营，去年进了大厂。想对学弟学妹说：第一份工作别挑平台大小，先把自己变成\"能打\"的人。",
+    "createdAt": "2026-09-30T11:51:18.078Z",
+    "replies": [],
+    "lastReplyAt": ""
+  },
+  {
     "id": "topic_1790769074269_fzgd9",
     "category": "行业讨论",
     "authorName": "陈学长",
