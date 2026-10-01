@@ -11,8 +11,19 @@
     "content": "19年毕业先在本地电商公司做客服，两年跳槽到杭州做运营，去年进了大厂。想对学弟学妹说：第一份工作别挑平台大小，先把自己变成\"能打\"的人。",
     "createdAt": "2026-10-01T09:50:26.278Z",
     "likes": 36,
-    "replies": [],
-    "lastReplyAt": ""
+    "replies": [
+      {
+        "replyId": "reply_1790848228510_6vlan",
+        "replyName": "高学姐",
+        "replyEmail": "seed14@sict90.cn",
+        "replyYear": "2020",
+        "replyDept": "信息技术系",
+        "isAnonymous": false,
+        "content": "学长太强了！想问一下大厂对学历卡得严吗？专升本的简历会不会直接被筛掉？",
+        "createdAt": "2026-10-01T09:50:28.124Z"
+      }
+    ],
+    "lastReplyAt": "2026-10-01T09:50:28.124Z"
   },
   {
     "id": "topic_1790848224538_6yxem",
