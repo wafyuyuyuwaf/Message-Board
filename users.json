@@ -30,5 +30,12 @@
     "created_at": "2026-09-29T04:41:34.744Z",
     "lastScoreReason": "发布祝福",
     "lastScoreAt": "2026-09-29T04:44:25.651Z"
+  },
+  {
+    "name": "王梓贺",
+    "email": "3604247652@qq.com",
+    "password": "123456",
+    "score": 0,
+    "created_at": "2026-10-10T07:16:50.142Z"
   }
 ]
